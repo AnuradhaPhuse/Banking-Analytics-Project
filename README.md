@@ -288,19 +288,19 @@ The project includes an interactive **5-page dashboard**.
 
 ## Fraud Analysis
 
-![Page 2](images/fraud analysis.png)
+![Page 2][(images/fraud analysis.png)](https://github.com/AnuradhaPhuse/Banking-Analytics-Project/blob/main/Images/fraud analysis.png)
 
 ## Transaction Analysis
 
-![Page 3](images/transactions.png)
+![Page 3][(images/transactions.png)](https://github.com/AnuradhaPhuse/Banking-Analytics-Project/blob/main/Images/transactions.png)
 
 ## Customer Analysis
 
-![Page 4](images/customers.png)
+![Page 4][(images/customers.png)](https://github.com/AnuradhaPhuse/Banking-Analytics-Project/blob/main/Images/customers.png)
 
 ## Reports & Insights
 
-![Page 5](images/reports.png)
+![Page 5][(images/reports.png)](https://github.com/AnuradhaPhuse/Banking-Analytics-Project/blob/main/Images/reports.png)
 
 ---
 
