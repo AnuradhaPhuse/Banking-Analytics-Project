@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+xgboost
+joblib
+jupyter
+notebook
+mysql-connector-python
+ipykernel
+warnings
