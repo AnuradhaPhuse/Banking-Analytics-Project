@@ -284,7 +284,7 @@ The project includes an interactive **5-page dashboard**.
 
 ## Executive Overview
 
-![Page 1](images/overview.png)
+![Page 1][(images/overview.png)](https://github.com/AnuradhaPhuse/Banking-Analytics-Project/blob/main/Images/Overview.png)
 
 ## Fraud Analysis
 
